@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>About Google: Our products, technology and company information</title>
+    <link>https://about.google/</link>
+    <description>Learn more about Google. Explore our innovative AI products and services, and discover how we're using technology to help improve lives around the world.</description>
+    <language>en-US</language>
+    <lastBuildDate>Wed, 06 Aug 2025 19:35:15 GMT</lastBuildDate>
+    <atom:link href="https://about.google/index.rss" type="application/rss+xml" rel="self" />
+  </channel>
+</rss>

@@ -1,0 +1,21 @@
+{
+  "name": "website-cloner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "cheerio": "^1.1.2",
+    "dotenv": "^17.2.1",
+    "fs-extra": "^11.3.1",
+    "openai": "^5.12.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
